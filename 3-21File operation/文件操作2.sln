@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件操作2", "文件操作2\文件操作2.vcxproj", "{D0AFFA65-8650-4887-98E1-D22EB088223E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0AFFA65-8650-4887-98E1-D22EB088223E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0AFFA65-8650-4887-98E1-D22EB088223E}.Debug|Win32.Build.0 = Debug|Win32
+		{D0AFFA65-8650-4887-98E1-D22EB088223E}.Release|Win32.ActiveCfg = Release|Win32
+		{D0AFFA65-8650-4887-98E1-D22EB088223E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
